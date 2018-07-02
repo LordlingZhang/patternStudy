@@ -2,7 +2,7 @@ package simplefactory;
 
 import org.apache.commons.lang3.StringUtils;
 
-/*
+/**
  * @author : Lordling_Zhang
  * @description : 普通简单工厂
  * @date : 2018/7/1
