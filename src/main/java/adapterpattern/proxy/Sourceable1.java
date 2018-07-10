@@ -1,15 +1,12 @@
-package adapterpattern.interfaceadapter;/*
+package adapterpattern.proxy;/*
  * @author : Lordling_Zhang
- * @description : 初识接口，拥有许多方法
- * @date : 2018/7/7
+ * @description : 初识接口
+ * @date : 2018/7/10
  */
 
-public interface Sourceable {
+public interface Sourceable1 {
 
-    void method1();
+    void method();
 
-    void method2();
-
-    void method3();
 
 }
